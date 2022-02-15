@@ -1,0 +1,13 @@
+.formGroup{
+    padding: 10px;
+}
+.inputText{
+    height: 40px;
+    width: 600px;
+    font-size: 20px;
+    border-radius: 30px;
+}
+td{
+    padding: 5px;
+    
+}
